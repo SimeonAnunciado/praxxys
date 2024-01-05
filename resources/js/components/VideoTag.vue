@@ -38,9 +38,4 @@ export default {
 };
 </script>
 <style scoped>
-/* .video-js {
-    position: relative !important;
-    width: 100% !important;
-    height: auto !important;
-} */
 </style>
